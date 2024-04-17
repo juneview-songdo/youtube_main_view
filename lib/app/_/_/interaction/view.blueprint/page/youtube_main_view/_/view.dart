@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../../../../../../main.dart';
+import '../feed/view.dart';
 import '_/state_child.dart';
 import '_/state_mother.dart';
 
@@ -22,7 +23,7 @@ class NewViewState extends State<NewView> with StateMother {
         index: _selectedIndex,
         children: [
           //////////////////////
-          Container().backgroundColor(Colors.red),
+          FeedView(),
           Container().backgroundColor(Colors.blue),
           Container().backgroundColor(Colors.yellow),
           Container().backgroundColor(Colors.green),
