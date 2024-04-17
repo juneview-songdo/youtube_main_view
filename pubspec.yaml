@@ -1,7 +1,7 @@
 name: youtube_main_view
-description: "Description here"
+description: "Youtube Main View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/youtube_main_view
 
 version: 1.0.0+1
 
@@ -25,6 +25,7 @@ dependencies:
   keyboard_attachable: ^2.2.0
   modal_bottom_sheet: ^3.0.0
   styled_widget: ^0.4.1
+  june: ^0.8.8
 
 dev_dependencies:
   bot_toast_module: ^0.1.2
@@ -35,7 +36,6 @@ dev_dependencies:
     sdk: flutter
   hive_module: ^1.0.1
   insta_style_bottom_navi2: ^1.0.4
-  june: ^0.8.8
   june_view: ^1.6.2 #@add
   june_view_more: ^1.6.2 #@add
   screenutil_module: ^1.0.1

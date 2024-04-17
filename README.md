@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/youtube_main_view/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/youtube_main_view/assets/21379657/6bcb7832-d06f-402d-95b0-d4288a98b2f3)
 
